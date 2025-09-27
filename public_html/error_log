@@ -1,0 +1,35 @@
+[21-Sep-2025 09:59:00 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html/../laravel_app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:00 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html/../laravel_app/vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unehir/public_html/../laravel_app/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/unehir/public_html/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:24 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html./vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:24 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html./vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:24 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unehir/public_html./vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/unehir/public_html/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:36 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:36 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:36 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unehir/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/unehir/public_html/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:37 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:37 Asia/Tehran] PHP Warning:  require(/home/unehir/public_html/vendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:37 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unehir/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/unehir/public_html/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:41 Asia/Tehran] PHP Warning:  require(/home/unehir/public_htmlvendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:41 Asia/Tehran] PHP Warning:  require(/home/unehir/public_htmlvendor/autoload.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 09:59:41 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unehir/public_htmlvendor/autoload.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/unehir/public_html/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/unehir/public_html/index.php on line 5
+[21-Sep-2025 10:00:03 Asia/Tehran] PHP Warning:  require_once(/home/unehir/public_html/bootstrap/app.php): Failed to open stream: No such file or directory in /home/unehir/public_html/index.php on line 7
+[21-Sep-2025 10:00:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Failed opening required '/home/unehir/public_html/bootstrap/app.php' (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/unehir/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/unehir/public_html/index.php on line 7

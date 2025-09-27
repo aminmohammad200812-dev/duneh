@@ -1,0 +1,1072 @@
+AWSTATS DATA FILE 7.9 (build 20230108)
+# If you remove this file, all statistics for date 202508 will be lost/reset.
+# Last config file used to build this data file was /home/unehir/tmp/awstats/awstats.duneh.ir.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2037                
+POS_TIME 2712                
+POS_VISITOR 18628               
+POS_DAY 26410               
+POS_DOMAIN 3486                
+POS_LOGIN 3891                
+POS_ROBOT 4046                
+POS_WORMS 4634                
+POS_EMAILSENDER 4765                
+POS_EMAILRECEIVER 4908                
+POS_SESSION 27065               
+POS_FILESIZE 28914               
+POS_SIDER 27250               
+POS_FILETYPES 5043                
+POS_DOWNLOADS 5199                
+POS_OS 5247                
+POS_BROWSER 5504                
+POS_SCREENSIZE 6333                
+POS_UNKNOWNREFERER 6407                
+POS_UNKNOWNREFERERBROWSER 6938                
+POS_ORIGIN 7086                
+POS_SEREFERRALS 7223                
+POS_PAGEREFS 7367                
+POS_SEARCHWORDS 7620                
+POS_KEYWORDS 7772                
+POS_MISC 2376                
+POS_ERRORS 7831                
+POS_CLUSTER 3747                
+POS_SIDER_404 7937                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20250901030315 9 1764 11791526661634
+FirstTime 20250805062749
+LastTime 20250831202328
+LastUpdate 20250901090907 9 0 8 0 0
+TotalVisits 263                 
+TotalUnique 202                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 202                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 15 15 36827 4 6 4977
+1 13 13 38224 64 78 99606
+2 13 13 48514 5 11 12276
+3 10 10 30472 160 204 252665
+4 5 5 12408 2 3 5876
+5 26 26 45616 20 26 34231
+6 22 30 285334 50 71 80247
+7 44 60 136101 39 58 51279
+8 88 94 110693 80 102 106308
+9 50 67 221895 36 65 56736
+10 58 72 369696 76 97 100955
+11 19 21 29069 5 20 18913
+12 11 13 46822 76 79 100049
+13 14 15 36384 99 102 124992
+14 9 9 22336 15 19 22151
+15 18 21 44882 128 152 188918
+16 12 12 46212 79 85 107124
+17 10 10 25395 155 195 243927
+18 5 5 12376 109 129 158841
+19 13 13 48712 102 106 127584
+20 4 4 15242 16 25 29553
+21 10 10 25010 145 177 216396
+22 5 5 12392 17 23 23751
+23 7 7 17336 1 10 11259
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+ir 236 297 863017
+us 118 125 422026
+jp 59 59 147561
+cn 19 19 90917
+ru 15 15 37952
+ca 13 13 97998
+de 4 5 7050
+se 4 4 9918
+rs 3 3 23880
+zz 3 3 261
+nl 2 2 4964
+gb 2 2 4960
+bg 2 2 4954
+be 1 1 2490
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+Googlebot/ 15 26837 20250831163825 0
+Applebot/ 5 10544 20250808023216 0
+bot[\s_+:,\.\;\/\\-] 3 6021 20250821151300 0
+scanner 2 10449 20250805091304 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 4954 20250825153651 0
+link 1 2490 20250809070424 0
+Who\.is[\x20]Bot 1 2474 20250827031840 0
+urllib 1 2135 20250823043815 0
+bingbot/ 1 2135 20250817105456 0
+nbot 1 2474 20250823150015 0
+curl 1 7960 20250809051209 0
+crawl 1 8958 20250810063100 0
+yak 1 2490 20250808043608 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+html 374 1135562 0 0
+Unknown 54 4491 0 0
+svg 2 468064 0 0
+css 67 103917 0 0
+php 53 5914 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+androidmarshmallow 1 1
+Unknown 72 72
+android13 4 3
+ios_iphone 82 80
+android12 1 1
+linuxubuntu 3 3
+win7 7 7
+winnt 1 1
+linux 20 20
+win10 305 243
+androidoreo 1 1
+androidpie 34 34
+macosx15 19 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 38
+safari5.0.4 3 3
+edge18 3 3
+chrome113.0.0.0 4 2
+chrome63.0.3239.111 1 1
+chrome91.0.4472.114 3 3
+chrome137.0.0.0 6 6
+chrome83.0.4103.97 4 4
+netscape5.0 2 2
+chrome83.0.4103.61 1 1
+chrome138.0.0.0 12 12
+chrome104.0.0.0 1 1
+chrome91.0.4472.124 13 13
+chrome92.0.4515.107 2 2
+chrome79.0.523 1 1
+chrome139.0.0.0 3 3
+chrome138.0.7204.183 1 1
+chrome131.0.0.0 6 4
+chrome85.0.4183.81 34 34
+firefox137.0 2 2
+firefox134.0 3 3
+chrome78.0.3904.108 24 24
+safari13.0.3 77 77
+mozilla 60 60
+firefox141.0 213 154
+chrome66.0.3359.181 26 26
+chrome79.0.3945.79 2 1
+chrome114.0.5735.199 1 1
+chrome120.0.0.0 6 6
+safari17.3.1 2 2
+chrome49.0.2623.112 3 3
+Unknown 10 10
+safari15.4 5 3
+chrome117.0.5938.132 4 2
+chrome124.0.0.0 1 1
+firefox139.0 5 5
+safari17.5 1 1
+chrome112.0.5615.136 4 3
+chrome115.0.0.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+GuzzleHttp/7 20250805062749
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20250831000609
+Mozilla/5.0_zgrab/0.x 20250820172130
+Mozilla/5.0_(compatible;_ips-agent) 20250807212944
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20250805082636
+Cpanel-HTTP-Client/1.0 20250805082627
+Mozilla/5.0_(compatible;_InternetMeasurement/1.0;__https://internet-measurement.com/) 20250806194210
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+GuzzleHttp/7 20250805062749
+Cpanel-HTTP-Client/1.0 20250805082627
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 399 399
+From1 0 0
+From2 0 0
+From3 3 5
+From4 79 146
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+https://sbc.dnaz.org 1 1
+https://66.115.183.156 1 1
+https://www.112video.ru 1 1
+http://mail.duneh.ir 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+403 53 65826
+404 1617 2022867
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 485
+/service/email_service.py 2 -
+/uwu2.php 1 -
+/getcpuutil.php-bakworking 2 -
+/.dockerignore 1 -
+/main/.env 2 -
+/tmp/php.log 1 -
+/user/config/config.js 2 -
+/wp-mt.php 2 -
+/swagger.json 2 -
+/storage/framework/views/ 1 -
+/config.json 18 -
+/backup.zip 3 -
+/phpinfo.phtml 3 -
+/2.php 2 -
+/php.ini 1 -
+/secrets.json 8 -
+/config/aws.json 3 -
+/admin/controllers/partner.js 2 -
+/wp2/wp-includes/wlwmanifest.xml 8 -
+/blog.env 2 -
+/wp-config.php.bak 2 -
+/helm/values.yaml 5 -
+/debug.log 3 -
+/application/config/config.php 1 -
+/*.tmp 1 -
+/secure-config.json 5 -
+/backup.sql 1 -
+/atomlib.php 2 -
+/build.gradle 1 -
+/opt/aws/ses.env 2 -
+/_profiler/phpinfo/info.php 9 -
+/next.config.js 5 -
+/wp-login.php 2 -
+/.env 37 -
+/api/config.env 2 -
+/_all_dbs 3 -
+/api/.env 10 -
+/fm.php 2 -
+/settings.bak 5 -
+/error.log 3 -
+/api/v1/users 7 -
+/sites/default/settings.php 1 -
+/.env.bak 15 -
+/laravael/core/.env 2 -
+/php_error_log 1 -
+/.envs/.production/.django 1 -
+/.aws/config 5 -
+/prod/.env 2 -
+/laravel/.env 2 -
+/storage/framework/cache/ 1 -
+/admin.js 1 -
+/app/config/parameters.yml 2 -
+/.env.stage 5 -
+/config/settings.php 1 -
+/config.properties 1 -
+/x.php 2 -
+/settings.json 5 -
+/css.php 4 -
+/secrets/aws_ses.env 2 -
+/inc/config.php 1 -
+/partner/config/config.js 2 -
+/node_modules/.env 2 -
+/server/config/database.js 2 -
+/13k.php 2 -
+/lara/info.php 2 -
+/.env1 6 -
+/logs/debug.log 3 -
+/lite.php 2 -
+/html.php 2 -
+/api/shared/.env 2 -
+/api/credentials 5 -
+/settings.yaml 5 -
+/lara/phpinfo.php 2 -
+/media/wp-includes/wlwmanifest.xml 8 -
+/lv.php 2 -
+/bundle.js 5 -
+/index.php 5 -
+/config/aws.yml 5 -
+/configuration.php.bak 3 -
+/app.yaml 3 -
+/wp-content/plugins/hellopress/wp_filemanager.php 3 -
+/wp-includes/wlwmanifest.xml 8 -
+/website/.env 2 -
+/*.bak 1 -
+/.well-known/acme-challenge/TLPpJKQvfISu3-3puuRF6nRxHpPfd8Da0JTRqzobdrk 1 -
+/api/user 5 -
+/src/main/resources/application.yml 5 -
+/sitemap.xml 8 -
+/wp-mn.php 4 -
+/12.php 2 -
+/apis/config/config.js 2 -
+/Gemfile.lock 1 -
+/helpers/utility.js 2 -
+/appsettings.json 5 -
+/ar.php 3 -
+/.project 1 -
+/6.php 2 -
+/application.properties 7 -
+/kyc/.env 2 -
+/tmp/errors.log 1 -
+/configs/s3_config.json 2 -
+/var/log/httpd/error_log 1 -
+/docker-compose.yml 15 -
+/requirements.txt 1 -
+/dashboard/phpinfo.php 2 -
+/var/log/nginx/error.log 1 -
+/_profiler/phpinfo/phpinfo.php 2 -
+/new/.env.production 2 -
+/scripts/nodemailer.js 2 -
+/alfa.php 2 -
+/nuxt.config.js 5 -
+/config.js 3 -
+/new/.env.staging 2 -
+/aws.yml 2 -
+/.env.txt/html/.env 3 -
+/debug/default/view 5 -
+/config/dev.json 5 -
+/logs/aws/ses.log 2 -
+/config/storage.yml 2 -
+/local-config.php 1 -
+/10.php 2 -
+/static/js/main.js 2 -
+/config/config.php 1 -
+/config.env 2 -
+/config.yaml 10 -
+/config/constants.js 2 -
+/.DS_Store 6 -
+/env.backup 2 -
+/info.php 20 -
+/we.php 3 -
+/news/wp-includes/wlwmanifest.xml 8 -
+/api/config/config.yml 2 -
+/var/log/php_errors.log 1 -
+/.well-known/security.txt 1 -
+/Dockerfile 1 -
+/a2.php 2 -
+/.settings/ 1 -
+/yarn.lock 1 -
+/aws-secret.yaml 2 -
+/actuator/env 3 -
+/robots.txt 40 -
+/nextjs-app/.env 2 -
+/s3.js 2 -
+/docker-compose.dev.yml 3 -
+/www/.env 2 -
+/site/wp-includes/wlwmanifest.xml 8 -
+/backend/config/default.yml 2 -
+/config/config.json 5 -
+/api/objects/codes.php.save 2 -
+/v2/_catalog 3 -
+/aa.php 2 -
+/backup.tar.gz 3 -
+/auth/login 3 -
+/pepe.php 2 -
+/awstats/.env 2 -
+/config.yml 5 -
+/files.php 1 www.google.com
+/admin/controllers/merchant.js 2 -
+/test_phpinfo.php 2 -
+/sms.py 2 -
+/wp-gr.php 5 -
+/telescope/requests 3 -
+/Procfile 1 -
+/api/shared/config/.env 2 -
+/.env.production.local 2 -
+/config/production.json 5 -
+/wp-config.php.backup 3 -
+/.env.prod 5 -
+/server 3 -
+/sito/wp-includes/wlwmanifest.xml 8 -
+/admin/server_info.php 2 -
+/php.php 5 -
+/.env_backup.txt 5 -
+/login.action 3 -
+/web.config 1 -
+/server/.env 6 -
+/Pipfile 1 -
+/2019/wp-includes/wlwmanifest.xml 8 -
+/logs/app.log 6 -
+/02.php 2 -
+/db.sql 3 -
+/env/.env 2 -
+/config.php 4 -
+/app/.env 8 -
+/_profiler/info.php 7 -
+/application/config/database.php 1 -
+/app_dev.php/_profiler/phpinfo 2 -
+/file32.php 2 -
+/public/.env 2 -
+/.git-credentials 3 -
+/web/wp-includes/wlwmanifest.xml 8 -
+/systeminfo.php 5 -
+/class20.php 3 -
+/chosen.php 2 -
+/docker/app/.env 2 -
+/.well-known/acme-challenge/iAdd9oHxqkSUaMYzZCzPrOQVQlWtqVZ6hPzwJI2B3PQ 1 -
+/controller/api/post.js 2 -
+/post/42/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B0%D8%AE%DB%8C%D8%B1%D9%87-%D8%B9%DA%A9%D8%B3-%D9%85%D8%AE%D8%A7%D8%B7%D8%A8-%D8%AF%D8%B1-%D9%84%D8%A7%DB%8C%D9%86-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF.html 1 -
+/pi.php 3 -
+/aws/credentials 5 -
+/.yarnrc 1 -
+/.AWS_/credentials 2 -
+/wp/wp-includes/wlwmanifest.xml 8 -
+/portal/.env 5 -
+/kk.php 2 -
+/info 6 -
+/configs/routes.js 2 -
+/wp1/wp-includes/wlwmanifest.xml 8 -
+/7.php 2 -
+/jp.php 2 -
+/_profiler/i.php 7 -
+/config/secrets.json 2 -
+/internal/config 6 -
+/helper.js 2 -
+/error_log 1 -
+/epinyins.php 2 -
+/wp-config-sample.php 1 -
+/124.php 2 -
+/config.ini 3 -
+/api/users 2 -
+/cloud/Scraper.js 2 -
+/.well-known/acme-challenge/qWsdElt8E4ExCwR1hFIeuhjkiCzhUl_23UFf5EPqcLk 1 -
+/server/s3.js 2 -
+/bypass.php 2 -
+/lock360.php 3 -
+/karma.conf.json 2 -
+/core.js 1 -
+/.circleci/configs/development.yml 2 -
+/admin/.env 5 -
+/.github/workflows/ 3 -
+/server-info 2 -
+/includes/config.php 1 -
+/index.js 7 -
+/my_env/palash.py 2 -
+/2018/wp-includes/wlwmanifest.xml 8 -
+/cron/.env 2 -
+/.next/env 5 -
+/.idea/workspace.xml 3 -
+/docker/.env 12 -
+/api/keys 5 -
+/.gitignore 4 -
+/awsstats/.env 2 -
+/api/config 5 -
+/ww.php 2 -
+/phpinfo.php 11 -
+/credentials.json 3 -
+/Booking/Default.aspx 3 -
+/Gemfile 1 -
+/myproject/.env 2 -
+/sysinfo.php 5 -
+/.vscode/sftp.json 3 -
+/configs/routes-4aug.js 2 -
+/api 3 -
+/api/shared/config/config.env 2 -
+/application.yml 5 -
+/backup_*.sql 1 -
+/static/js/main.141b0494.js 2 -
+/wp-config.php 4 -
+/test.php 11 -
+/app/info 3 -
+/mail/.env 5 -
+/my_env/chakaash.py 2 -
+/data.js 1 -
+/.npmrc 1 -
+/.env.*.local 1 -
+/static/js/2.ca066a4b.chunk.js 2 -
+/test/wp-includes/wlwmanifest.xml 8 -
+/nginx/.env 2 -
+/sendgrid.env 3 -
+/docker-compose.prod.yml 3 -
+/library/.env 2 -
+/config/php.ini 1 -
+/database.sql 3 -
+/database/database.sqlite 1 -
+/server_info.php 2 -
+/%c0 3 -
+/wp.php 5 -
+/ioxi-o.php 2 -
+/geck.php 2 -
+/xc.php 1 -
+/storage/framework/sessions/ 1 -
+/*.old 1 -
+/.env.dev 8 -
+/new/.env.local 2 -
+/cf.php 2 -
+/public/js/main.js 2 -
+/backend 3 -
+/var/log/apache2/error.log 1 -
+/settings.js 1 -
+/_phpinfo.php 8 -
+/ol.php 1 -
+/version 3 -
+/configs/application.ini 3 -
+/config/settings.json 2 -
+/serverinfo.php 5 -
+/api/login 3 -
+/gmo.php 3 -
+/react-app/.env 2 -
+/zwso.php 2 -
+/file.php 2 -
+/.env.testing 1 -
+/qing.php 2 -
+/.next/static/development/pages/.env 5 -
+/database/migrations/ 1 -
+/controller/admin/post.js 2 -
+/js/.env 2 -
+/123.php 2 -
+/package-lock.json 1 -
+/cms/wp-includes/wlwmanifest.xml 8 -
+/wp-content/debug.log 3 -
+/.output/server/.env 5 -
+/config/local.yml 2 -
+/11.php 2 -
+/user/controllers/index.js 2 -
+/phpv.php 5 -
+/.vscode/.env 2 -
+/shared/config/config.js 2 -
+/*.backup 1 -
+/api/src/.env 3 -
+/mms.php 2 -
+/config/application.yml 2 -
+/shout.php 2 -
+/modules/mod_simplefileuploadv1.3/elements/filemanager.php 3 -
+/i.php 9 -
+/goat.php 2 -
+/wp-admin/maint/maint.php 2 -
+/wp-config 2 -
+/config.old.php 5 -
+/pp.php 6 -
+/_profiler/phpinfo.php 7 -
+/.travis.yml 2 -
+/asus.php 2 -
+/.php.ini 1 -
+/backend/config/settings.yml 2 -
+/platform/.env 3 -
+/app/config.php 1 -
+/database_old.json 5 -
+/static/js/main.e85f7a37.js 2 -
+/storage/logs/laravel.log 5 -
+/tag/%D8%A8%D8%A7%D8%AF%DB%8C%DA%AF%D8%A7%D8%B1%D8%AF+%D8%A2%D8%B1%D9%85%DB%8C%D9%86+%D8%AA%D9%88%DB%8C+%D8%A7%D9%81+%D8%A7%D9%85 1 -
+/.env.development 3 -
+/.env.production 13 -
+/apps/.env 5 -
+/wp-content/.env 2 -
+/phpinf.php 5 -
+/ova.php 2 -
+/.vscode/settings.json 3 -
+/goods.php 3 -
+/.gitconfig 1 -
+/app/config/config.php 1 -
+/settings.gradle 1 -
+/login 1 -
+/xampp/.env 2 -
+/xampp/phpinfo.php 2 -
+/send_otp.php 10 http://duneh.ir/
+/my_env/newsletter.py 2 -
+/.user.ini 1 -
+/apis/controllers/users.js 2 -
+/main.js 8 -
+/mailer/.env 2 -
+/server.js 2 -
+/config/database.php 1 -
+/test 3 -
+/13.php 2 -
+/core/.env 2 -
+/tag/%D8%AD%D8%A7%D9%84+%D9%88+%D9%87%D9%88%D8%A7%DB%8C+%D8%AF%D8%B1%D8%A8%DB%8C 1 -
+/conf/.env 2 -
+/bless.php 2 -
+/database/seeders/ 1 -
+/config/settings.prod 2 -
+/dev.php 2 -
+/error.php 3 -
+/api/shared/config.env 2 -
+/helper/EmailHelper.js 2 -
+/env.js 1 -
+/2x.php 2 -
+/app.js 7 -
+/.env.test 3 -
+/dropdown.php 2 -
+/xmlrpc.php 8 -
+/app.py 2 -
+/.env.example 8 -
+/html/.env 3 -
+/composer.lock 1 -
+/api/settings.json 5 -
+/configuration.php 1 -
+/vendor/.env 2 -
+/config/parameters.yml 2 -
+/backend/config/development.yml 2 -
+/about 3 -
+/package.json 1 -
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application 3 -
+/react-app/.env.production 2 -
+/server-info.php 2 -
+/.env.sample 2 -
+/cat/21 1 -
+/Pipfile.lock 1 -
+/gatsby-config.js 2 -
+/test/info.php 3 -
+/config/settings.local 2 -
+/ll.php 2 -
+/debug.php 6 -
+/site/.env 2 -
+/config/env 2 -
+/zews.php 2 -
+/size.php 2 -
+/456.php 2 -
+/a1.php 2 -
+/dev/.env 5 -
+/mytest/astech_robot.js 2 -
+/.env_sample 2 -
+/ahax.php 2 -
+/@vite/env 3 -
+/backend/.env 8 -
+/var/www/html/phpinfo.php 1 -
+/config 1 -
+/v.php 2 -
+/p.php 2 -
+/security.txt 2 -
+/abcd.php 3 -
+/website/wp-includes/wlwmanifest.xml 8 -
+/3.php 2 -
+/config/.env 8 -
+/wordpress/wp-includes/wlwmanifest.xml 8 -
+/docker-compose.override.yml 3 -
+/user/biomarshal 1 -
+/.aws/credentials 10 -
+/admin/config 5 -
+/secured/phpinfo.php 2 -
+/wp-config.php.orig 3 -
+/blog/wp-includes/wlwmanifest.xml 8 -
+/shop/wp-includes/wlwmanifest.xml 8 -
+/Ceate%20an%20Account.css 1 http://duneh.ir/
+/web/.env 2 -
+/.env.old 5 -
+/_profiler/phpinfo 5 -
+/v1/.env 3 -
+/local/.env 2 -
+/development/.env 5 -
+/.env.local 10 -
+/phpinfo 10 -
+/secrets.yml 3 -
+/pinfo.php 5 -
+/xx.php 2 -
+/node/.env_example 2 -
+/laravel/core/.env 2 -
+/pom.xml 1 -
+/.backup 3 -
+/User/duneh 1 -
+/private/.env 2 -
+/ee.php 2 -
+/js/main.js 2 -
+/api/config.js 2 -
+/application/.env 2 -
+/settings.py 5 -
+/.gitlab-ci.yml 3 -
+/akcc.php 2 -
+/%c0/ 6 -
+/new/.env 2 -
+/aws-credentials.txt 3 -
+/controllers/settings.js 2 -
+/111.php 2 -
+/crm/.env 2 -
+/main.yml 2 -
+/dump.sql 3 -
+/system_log.php 2 -
+/*.map 5 -
+/config/config.env 3 -
+/storage/logs/error.log 3 -
+/api/info 3 -
+/node-api/.env 2 -
+/var/www/html/info.php 1 -
+/.next/static/env.js 5 -
+/ 15 -
+/env 3 -
+/composer.json 1 -
+/.classpath 1 -
+/s/0363e2437313e283e2538313/_/ 3 -
+/php-version.php 5 -
+/server-status 3 -
+/swagger.js 2 -
+/laravel/info.php 2 -
+/k90.php 2 -
+/db.php 1 -
+/config/default.json 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 202
+5.202.52.254 154 213 751303 20250812073443
+185.8.174.50 45 45 18030 20250821192041
+194.225.50.88 34 34 85622 20250831202328
+52.205.193.227 12 12 95520 20250806192237
+54.158.216.192 6 6 47760 20250806092853
+185.177.72.10 4 4 10624 20250811031720
+13.220.235.252 3 3 23880 20250806074520
+35.93.179.84 3 3 7470 20250805102344
+185.177.72.57 3 3 7440 20250811184617
+52.90.217.223 3 3 23880 20250806054932
+185.177.72.236 3 3 7470 20250806163335
+83.123.225.8 3 4 4576 20250809153923
+109.199.118.129 2 2 4954 20250831013308
+43.128.149.102 2 2 4970 20250811191717
+43.130.15.147 2 2 4970 20250814104723
+129.226.93.214 2 2 4954 20250817170911
+101.33.66.34 2 2 4948 20250829120644
+205.169.39.240 2 3 6169 20250814131423
+44.250.186.241 2 2 174 20250805082635
+129.226.174.80 2 2 4954 20250827005211
+192.175.111.239 2 2 15918 20250805091459
+44.251.232.55 2 4 8054 20250805105105
+43.157.188.74 2 2 4948 20250831091134
+35.88.130.118 2 4 8054 20250805105042
+185.177.72.111 2 2 4948 20250825135538
+18.141.220.159 1 1 87 20250805082635
+43.135.139.165 1 1 2480 20250813125400
+44.243.241.19 1 1 2490 20250808011534
+209.38.217.76 1 1 2490 20250808065218
+34.210.38.61 1 1 2490 20250806012632
+180.163.220.110 1 1 7820 20250813021956
+162.62.213.187 1 1 2490 20250808023954
+35.163.162.91 1 1 2474 20250827081758
+192.175.111.247 1 1 7959 20250805091437
+43.159.138.217 1 1 2474 20250828165856
+93.158.90.73 1 1 2474 20250821183124
+43.157.38.228 1 1 2474 20250826141834
+192.36.121.172 1 1 2474 20250827203057
+43.153.58.28 1 1 2480 20250813212140
+152.67.193.32 1 1 2135 20250826004831
+35.91.112.54 1 1 2474 20250823074944
+43.153.71.12 1 1 2490 20250809061723
+91.231.89.33 1 1 7960 20250808024708
+68.183.201.123 1 1 2490 20250809030127
+43.130.39.254 1 1 2474 20250821112423
+44.245.22.166 1 1 2480 20250813005238
+49.51.38.193 1 1 2490 20250808141822
+34.217.178.250 1 1 2474 20250825015816
+34.212.226.13 1 1 2474 20250824131755
+64.15.129.101 1 1 7959 20250805091439
+161.35.218.169 1 1 2490 20250806063633
+43.157.172.39 1 1 2480 20250814044623
+3.140.182.19 1 1 2474 20250819024132
+106.75.157.202 1 1 7960 20250808081348
+157.230.115.137 1 1 2490 20250806140314
+43.153.113.127 1 1 2474 20250829223709
+13.229.137.49 1 1 87 20250805082635
+52.41.161.202 1 1 2474 20250830002608
+34.221.137.38 1 1 2474 20250831012924
+43.156.109.53 1 1 2480 20250812233419
+43.165.135.242 1 1 2656 20250811063228
+54.184.186.36 1 1 2480 20250812003404
+64.15.129.114 1 1 7959 20250805091436
+178.239.151.243 1 1 8 20250805062749
+43.158.91.71 1 1 2474 20250830123556
+44.244.76.124 1 1 2474 20250818003954
+43.166.244.251 1 1 2490 20250805105746
+18.234.253.219 1 1 2490 20250805131036
+43.157.82.252 1 1 2474 20250825172250
+43.166.128.86 1 1 2474 20250828024418
+13.49.221.43 1 1 87 20250805082634
+24.144.82.193 1 1 2474 20250822055451
+64.225.74.165 1 1 2474 20250828083723
+27.115.124.69 1 1 7960 20250808081309
+44.202.226.225 1 1 7820 20250825103305
+144.126.132.107 1 1 2474 20250822231238
+192.175.111.245 1 1 7959 20250805091500
+35.90.184.150 1 1 2474 20250821232539
+44.202.35.195 1 1 2474 20250830153548
+16.171.2.199 1 1 87 20250805082633
+43.131.23.154 1 1 2474 20250820074155
+3.144.221.86 1 1 87 20250805082634
+3.139.87.110 1 1 87 20250805082635
+199.45.155.108 1 1 2480 20250811224002
+43.130.67.33 1 1 2480 20250815015505
+23.178.112.106 1 1 87 20250805082633
+34.215.131.129 1 1 2656 20250811081306
+44.252.82.185 1 1 2480 20250812130439
+54.201.22.79 1 1 2474 20250818003938
+192.175.111.232 1 1 7959 20250805091459
+43.164.197.209 1 1 2480 20250815141544
+64.15.129.113 1 1 7959 20250805091443
+49.51.178.45 1 1 2474 20250830235208
+43.131.26.226 1 1 2474 20250824030524
+143.110.183.87 1 1 2490 20250808155139
+43.130.131.18 1 1 2474 20250829045403
+129.226.213.145 1 1 2474 20250827094537
+134.209.18.99 1 1 2743 20250809132456
+43.159.143.139 1 1 2474 20250820141537
+43.159.144.16 1 1 2474 20250822071231
+35.86.120.136 1 1 2490 20250807041959
+43.157.180.116 1 1 2743 20250809115122
+52.34.51.43 1 1 2490 20250807131314
+43.133.66.51 1 1 2474 20250820002619
+185.177.72.23 1 1 2490 20250807153923
+23.178.112.103 1 1 87 20250805082634
+16.16.218.96 1 1 87 20250805082634
+44.252.4.159 1 1 2480 20250816004245
+43.157.170.13 1 1 2490 20250806105138
+44.248.17.242 1 1 2480 20250813231036
+167.94.138.42 1 1 2474 20250831000609
+180.163.220.111 1 1 7960 20250808081325
+66.249.79.37 1 1 2135 20250831051605
+54.188.223.240 1 1 2474 20250828041747
+43.165.70.220 1 1 2490 20250806162826
+43.153.102.138 1 1 2490 20250807074830
+111.7.100.27 1 1 2480 20250812020651
+49.51.183.75 1 1 2480 20250811123055
+165.154.206.250 1 1 2490 20250809051322
+72.13.46.5 1 1 2490 20250807212944
+199.45.155.75 1 1 2480 20250811210906
+106.75.165.205 1 1 7960 20250808081347
+101.32.52.164 1 1 2474 20250823012017
+43.157.156.190 1 1 2474 20250824101748
+192.175.111.233 1 1 7959 20250805091442
+170.106.140.110 1 1 2474 20250819081811
+124.156.179.141 1 1 2474 20250821190158
+43.153.76.247 1 1 2656 20250810130058
+54.179.189.54 1 1 87 20250805082634
+43.130.12.43 1 1 2474 20250823085910
+87.236.176.35 1 1 2490 20250806125306
+43.165.69.68 1 1 2474 20250831153839
+34.221.165.146 1 1 2474 20250826023858
+91.231.89.34 1 1 7960 20250808025328
+44.244.46.190 1 1 2490 20250809000036
+146.70.10.14 1 1 2480 20250812235801
+43.157.147.3 1 1 2474 20250819142645
+34.219.97.155 1 1 2474 20250819032313
+43.130.150.80 1 1 2474 20250818021135
+170.106.165.186 1 1 2480 20250812160130
+43.130.57.76 1 1 2474 20250827163039
+91.231.89.36 1 1 7960 20250808015400
+43.131.32.36 1 1 2656 20250810212854
+43.134.141.244 1 1 2474 20250825103224
+93.158.90.66 1 1 2490 20250808214209
+1.192.192.4 1 1 7960 20250808090654
+18.236.217.107 2 2 4980 20250805102343
+54.190.149.254 1 1 87 20250805082635
+164.90.174.230 1 1 2474 20250828081952
+52.36.109.148 1 1 2474 20250829001905
+54.187.11.57 1 1 2474 20250824030544
+185.247.137.146 1 1 2490 20250806194210
+43.135.182.95 1 1 2480 20250815082818
+23.178.112.107 1 1 87 20250805082633
+167.99.54.161 1 1 2474 20250822084427
+167.94.138.125 1 1 2490 20250806192644
+128.199.20.232 1 1 2480 20250814070649
+43.135.186.135 1 1 2474 20250828100400
+206.168.34.79 1 1 2480 20250811215221
+64.15.129.119 1 1 7959 20250805091438
+18.237.0.221 1 1 2743 20250810014123
+205.169.39.49 1 2 4026 20250814150700
+43.165.189.206 1 1 2474 20250830061536
+43.164.197.177 1 1 2743 20250810073119
+43.155.157.239 1 1 2490 20250808225904
+34.220.248.186 1 1 2480 20250815052229
+35.88.70.20 1 1 2474 20250821011739
+35.91.210.160 1 1 2491 20250805100344
+43.153.47.201 2 2 5217 20250818145906
+101.32.208.70 1 1 2474 20250824165527
+64.15.129.102 1 1 7959 20250805091501
+43.130.47.33 1 1 2490 20250807132439
+15.204.183.221 2 2 4980 20250807210403
+185.247.137.135 1 1 2490 20250806152703
+5.161.251.115 2 4 8054 20250806125959
+134.209.165.151 1 1 2490 20250807150209
+205.169.39.57 1 2 4026 20250814150419
+3.239.122.213 1 1 7820 20250826201828
+64.23.143.62 1 1 2490 20250808133018
+106.75.167.27 1 1 7960 20250808081344
+27.115.124.112 1 1 7820 20250813032126
+43.155.140.157 1 1 2474 20250822153326
+43.128.156.124 2 2 4964 20250818090325
+43.152.72.244 1 1 2474 20250825034413
+49.51.132.100 1 1 2743 20250810012856
+18.224.192.118 1 1 2474 20250820172130
+192.175.111.251 1 1 7959 20250805091436
+167.71.27.130 1 1 2474 20250823062952
+3.235.164.184 1 1 7820 20250825094027
+35.166.106.157 1 1 2474 20250820025315
+46.228.199.158 1 1 2474 20250821082504
+43.166.136.202 1 1 2474 20250826070401
+49.51.253.26 1 1 2480 20250813062708
+43.130.26.3 1 1 2480 20250812101912
+43.153.123.3 1 1 2474 20250819011256
+82.157.18.32 1 1 2474 20250830081811
+18.118.102.49 1 1 87 20250805082634
+43.133.139.6 1 1 2474 20250817110023
+192.36.24.172 1 1 2480 20250815022036
+43.130.71.237 1 1 2490 20250805165818
+43.166.224.244 1 1 2480 20250814164507
+188.166.7.63 1 1 2490 20250805143207
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20250805 109 123 194093 38
+20250806 39 41 231464 22
+20250807 13 13 32370 12
+20250808 19 19 96540 19
+20250809 56 74 564577 12
+20250810 34 48 91995 10
+20250811 67 83 119503 13
+20250812 13 15 32815 11
+20250813 8 8 30520 8
+20250814 9 12 26621 8
+20250815 7 7 17360 7
+20250816 2 2 4960 2
+20250817 4 4 9896 4
+20250818 10 10 24740 9
+20250819 5 5 12370 5
+20250820 9 9 22266 8
+20250821 9 9 22266 8
+20250822 5 5 12370 5
+20250823 6 6 14844 6
+20250824 7 7 17318 7
+20250825 9 9 32958 8
+20250826 6 6 19851 6
+20250827 6 6 14844 6
+20250828 8 8 19792 8
+20250829 6 6 14844 6
+20250830 7 7 17318 7
+20250831 8 8 19453 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+1h+ 4
+30s-2mn 4
+30mn-1h 3
+5mn-15mn 1
+0s-30s 251
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/ 360 1110916 244 243
+/snd_otp.php 52 5906 3 3
+/confirmpassword.html 8 15786 0 1
+/.well-known/acme-challenge/SgyXOKVwunXpYt_QigKPLTayNTI07tPN4SwZ99l0NRY 5 435 0 0
+/.well-known/acme-challenge/-5f8vYGQZ7MX8DL2S93xndPvr6-bIXfdZnD8ybmrAis 5 435 0 1
+/.well-known/acme-challenge/FfKoYvlvoYVqwpdeJv3UxnhjhVYYRpWD2xDb9zyEfAM 5 435 5 4
+/.well-known/acme-challenge/FvYmZRbM8mIcT6_TChVXpgfP3_YwdeRm5u6c8a3aCW8 5 435 0 0
+/.well-known/acme-challenge/iAdd9oHxqkSUaMYzZCzPrOQVQlWtqVZ6hPzwJI2B3PQ 5 435 5 5
+/.well-known/acme-challenge/qWsdElt8E4ExCwR1hFIeuhjkiCzhUl_23UFf5EPqcLk 5 435 0 0
+/.well-known/acme-challenge/XDurGItP4-DjR4S95SyIKMKv0pa6Ow-Ozs-VJh5P4KM 5 435 0 0
+/.well-known/acme-challenge/TLPpJKQvfISu3-3puuRF6nRxHpPfd8Da0JTRqzobdrk 5 435 0 0
+/.well-known/acme-challenge/wUiPxnaTRgd4T7LtKeAHecZ7eHbknS-xL3zvZ7Oq-xo 5 435 4 5
+/about.html 3 4226 0 0
+/.well-known/acme-challenge/EK45AN8WQYUA41RGLPD-FAHGP1X6ELLJ 1 64 0 0
+/Contact%20Us.html 1 784 0 0
+/.well-known/acme-challenge/V7BA73NDKMZ8M3BO-HS_XXUTG4H_RAGH 1 64 0 0
+/Complaints.html 1 2389 0 0
+/.well-known/acme-challenge/3-RP5TS2GC22-SVXRU1NL3VP_YID_77- 1 64 0 0
+/i9Uk2WYz5Car0mUczpN5.php 1 8 1 1
+/.well-known/acme-challenge/7B71RJW7CWC5HZ4YT2P5C5VII2AI0UIA 1 64 0 0
+/.well-known/acme-challenge/ZRV4YU8E3_2KHTHUYJ-8D7XTT2B1E2EG 1 64 1 0
+/.well-known/acme-challenge/R2Y_DJOILGIQM1_NDW6GIT2NQF99GF_C 1 64 0 0
+/.well-known/acme-challenge/UM5AJA1SUNC3035I70QZFQ-F6XY5AKMV 1 64 0 0
+/.well-known/acme-challenge/FC2B4NTNF0FB52BBGWR-DGPDQQXEK6CL 1 64 0 0
+/New%20Text%20Document.html 1 1461 0 0
+/.well-known/acme-challenge/C_IQZPM5MCXPUV4SEHHNKDGH88C0_5BK 1 64 0 0
+END_SIDER
+
+# Payload Range - Payload Frequency
+BEGIN_FILESIZE 7
+2K-5K 312
+44-100 54
+500-1K 1
+100-500 34
+5K+ 55
+1K-2K 1888
+0-44 49
+END_FILESIZE

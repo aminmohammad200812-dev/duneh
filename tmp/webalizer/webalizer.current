@@ -1,0 +1,884 @@
+# Webalizer V2.23-08 Incremental Data - 09/22/2025 11:53:10
+2025 9 22 11 53 10
+1840 795 195 2 14 63 6402596 984 261 0
+9 2 300 1 22
+25 7 39818 8 8 8
+7 6 16095 7 6 6
+10 6 19848 7 7 6
+9 8 20704 8 8 8
+32 4 47943 7 12 5
+320 159 1325434 9 166 11
+179 89 726077 7 95 7
+496 247 2051771 15 256 14
+12 6 29683 7 11 9
+25 12 63327 12 21 13
+213 106 868923 15 115 15
+195 97 779278 12 107 14
+23 11 55134 13 22 16
+34 17 84150 20 31 22
+29 14 69473 14 26 18
+21 6 38783 11 17 14
+59 0 46905 18 17 16
+11 0 8745 10 10 10
+24 0 19080 21 20 20
+11 0 8745 10 10 10
+14 0 10335 14 11 11
+91 0 72345 9 8 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+34 16 79293 31
+12 5 28249 12
+17 5 30446 13
+34 16 72644 28
+26 11 54051 20
+13 4 21092 11
+15 7 30614 14
+22 9 49851 22
+16 3 24765 12
+37 4 51797 19
+335 125 1103436 134
+10 2 13042 8
+6 2 11572 5
+65 8 78644 22
+318 156 1313988 168
+7 1 8978 6
+30 6 46087 12
+13 5 26306 10
+12 5 25935 10
+12 6 24933 10
+188 93 760580 97
+362 181 1524317 185
+244 120 998718 125
+12 5 23258 10
+0
+0
+0
+795
+0
+0
+0
+0
+0
+0
+0
+214
+778
+0
+0
+0
+0
+0
+0
+0
+2
+51
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/cgi-sys/suspendedpage.cgi
+0 767 7598258067103182701 5498205 62 50
+/
+0 28 94841600275680 68933 190 25
+# End Of Table - urls
+# -sites- (monthly)
+ec2-3-90-80-133.compute-1.amazonaws.com
+0 2 1 5003 1 1757725668
+/cgi-sys/suspendedpage.cgi
+unused-space.coop.net
+0 6 2 11230 3 1757617488
+/
+43.135.140.225
+0 1 0 795 1 1758202833
+/
+43.166.237.57
+0 2 1 5003 2 1757317120
+/
+4.217.254.21
+0 42 0 33390 1 1758115242
+/
+crawl-66-249-68-130.googlebot.com
+0 5 2 10107 3 1757904717
+/cgi-sys/suspendedpage.cgi
+93.158.90.73
+0 1 0 795 1 1758454342
+/
+104.215.251.119
+0 1 0 795 1 1758102890
+/
+msnbot-207-46-13-231.search.msn.com
+0 3 1 5463 1 1757995840
+/cgi-sys/suspendedpage.cgi
+150.109.119.38
+0 1 1 2474 1 1756919503
+/
+43.157.67.70
+0 2 1 5003 1 1757596044
+/cgi-sys/suspendedpage.cgi
+crawl-66-249-79-36.googlebot.com
+0 9 4 19443 3 1757908092
+/cgi-sys/suspendedpage.cgi
+101.91.148.219
+0 4 1 6593 3 1758476417
+/
+72.13.62.43
+0 3 1 5774 1 1757285097
+/cgi-sys/suspendedpage.cgi
+43.153.27.244
+0 3 1 5798 2 1758181330
+/
+49.51.39.209
+0 2 1 5003 1 1757686147
+/
+192.36.166.94
+0 1 1 4232 1 1757549571
+/cgi-sys/suspendedpage.cgi
+43.153.54.14
+0 1 0 795 1 1758468896
+/
+crawl-66-249-68-129.googlebot.com
+0 7 4 16619 4 1757810641
+/cgi-sys/suspendedpage.cgi
+43.135.182.95
+0 2 1 5003 2 1757117071
+/
+170.106.15.3
+0 2 1 5003 1 1757338827
+/cgi-sys/suspendedpage.cgi
+43.157.50.58
+0 2 1 5003 1 1757228832
+/
+43.135.185.59
+0 1 0 795 1 1758132341
+/
+ec2-100-29-38-0.compute-1.amazonaws.com
+0 2 1 5003 1 1757544275
+/cgi-sys/suspendedpage.cgi
+114.80.36.40
+0 4 2 10006 4 1757943368
+/
+170.106.161.78
+0 2 1 5003 1 1757945409
+/cgi-sys/suspendedpage.cgi
+43.133.187.11
+0 1 0 795 1 1758349201
+/
+173.244.42.171
+0 2 1 4668 1 1757894002
+/cgi-sys/suspendedpage.cgi
+192.36.109.129
+0 1 0 771 0 0
+-
+ec2-44-220-168-142.compute-1.amazonaws.com
+0 1 0 795 1 1758257230
+/
+43.166.250.187
+0 2 1 5003 1 1757167052
+/cgi-sys/suspendedpage.cgi
+20.39.203.9
+0 174 87 729147 1 1757710486
+/cgi-sys/suspendedpage.cgi
+93.158.90.65
+0 2 1 5003 1 1757359494
+/
+179-135-69-246.user.vivozap.com.br
+0 1 1 3897 1 1757437122
+/cgi-sys/suspendedpage.cgi
+ec2-54-160-251-165.compute-1.amazonaws.com
+0 2 1 5003 1 1757893921
+/cgi-sys/suspendedpage.cgi
+165.22.251.174
+0 2 1 5003 1 1757867049
+/cgi-sys/suspendedpage.cgi
+ec2-47-128-57-209.ap-southeast-1.compute.amazonaws.com
+0 1 0 795 0 0
+-
+msnbot-52-167-144-188.search.msn.com
+0 1 0 795 1 1758079473
+/
+106.119.167.146
+0 4 1 6593 4 1758406242
+/
+c212.ibou.io
+0 1 0 795 1 1758459985
+/
+182.44.67.97
+0 1 0 795 1 1758279475
+/
+170.106.143.6
+0 1 1 2474 1 1756897151
+/
+124.156.226.179
+0 1 0 795 1 1758248723
+/
+c248.ibou.io
+0 1 0 795 0 0
+-
+crawlerfi.openrobotstxt.org
+0 1 0 771 0 0
+-
+182.42.104.32
+0 1 0 771 1 1757710087
+/
+crawl-66-249-66-195.googlebot.com
+0 2 0 1590 2 1758541990
+-
+43.157.179.227
+0 2 1 5003 2 1757864628
+/
+43.128.67.187
+0 2 1 5003 2 1757504858
+/
+49.51.253.26
+0 2 1 5003 1 1757077832
+/cgi-sys/suspendedpage.cgi
+43.153.15.51
+0 1 1 2474 1 1756959876
+/
+8.39.54.150
+0 2 1 5003 1 1757599015
+/
+43.153.54.138
+0 1 1 2474 1 1757002684
+/
+167.172.159.232
+0 2 0 1590 1 1758358582
+/
+117.33.163.216
+0 1 0 795 1 1758109082
+/
+52.178.197.183
+0 33 0 41283 0 0
+-
+124.156.225.181
+0 1 0 795 1 1758514597
+/
+43.159.136.201
+0 1 1 2474 1 1757053687
+/
+crawl-66-249-66-194.googlebot.com
+0 4 0 3180 2 1758293781
+-
+crawl-66-249-79-37.googlebot.com
+0 6 3 14004 4 1757908092
+/
+182.42.111.213
+0 2 1 5003 1 1757764896
+/cgi-sys/suspendedpage.cgi
+138.197.77.180
+0 3 1 5878 1 1757558233
+/
+124.221.245.78
+0 2 1 5003 1 1757915309
+/cgi-sys/suspendedpage.cgi
+36.41.75.167
+0 5 2 10801 3 1758448057
+/
+132.232.144.200
+0 2 1 5003 2 1757970663
+/
+ec2-3-235-108-198.compute-1.amazonaws.com
+0 2 1 8381 1 1757316759
+/cgi-sys/suspendedpage.cgi
+scanner-27.ch1.censys-scanner.com
+0 5 2 10985 1 1757361844
+/cgi-sys/suspendedpage.cgi
+125.75.66.97
+0 3 1 5798 3 1758363842
+/
+crawl-66-249-68-132.googlebot.com
+0 1 0 771 1 1757636221
+/
+94-247-172-129-static.serverhotell.net
+0 1 0 771 1 1757130233
+/
+crawl-66-249-79-32.googlebot.com
+0 5 3 13233 4 1757735240
+/
+43.157.22.57
+0 2 1 5003 1 1757844118
+/cgi-sys/suspendedpage.cgi
+114.117.233.112
+0 1 0 795 1 1758208572
+/
+93.158.90.67
+0 1 0 771 0 0
+-
+180.110.203.108
+0 1 0 771 1 1757928934
+/
+43.166.242.189
+0 2 1 3725 2 1758019276
+/
+132.232.165.4
+0 3 1 5798 2 1758264989
+/
+ec2-34-211-146-39.us-west-2.compute.amazonaws.com
+0 1 1 2474 1 1756710341
+/
+60.188.57.0
+0 2 1 5003 2 1757751023
+/
+198.98.58.78
+0 4 2 10006 2 1757918245
+/cgi-sys/suspendedpage.cgi
+190-83-49-15.ultralinknet.net.br
+0 1 0 771 1 1757437120
+/
+124.226.222.66
+0 2 1 5003 2 1757723560
+/
+43.153.79.218
+0 1 0 795 1 1758293343
+/
+ec2-18-214-88-6.compute-1.amazonaws.com
+0 1 0 795 1 1758242195
+/
+36.111.67.189
+0 1 0 795 1 1758433662
+/
+182.44.2.148
+0 1 0 795 1 1758137667
+/
+170.106.72.178
+0 2 1 5003 2 1757775197
+/
+182.42.105.144
+0 1 0 795 1 1758321372
+/
+ec2-54-198-5-155.compute-1.amazonaws.com
+0 2 1 5003 1 1757196500
+/cgi-sys/suspendedpage.cgi
+ec2-44-211-157-157.compute-1.amazonaws.com
+0 1 1 2474 1 1756966512
+/
+43.157.149.188
+0 4 2 10006 2 1757729678
+/cgi-sys/suspendedpage.cgi
+msnbot-40-77-167-4.search.msn.com
+0 2 1 4668 1 1757995854
+/cgi-sys/suspendedpage.cgi
+17-241-227-72.applebot.apple.com
+0 2 1 5003 1 1757385291
+/cgi-sys/suspendedpage.cgi
+167.172.77.159
+0 1 0 795 0 0
+-
+43.156.202.34
+0 2 1 5003 1 1757754652
+/cgi-sys/suspendedpage.cgi
+43.153.135.208
+0 2 1 5003 1 1757250588
+/cgi-sys/suspendedpage.cgi
+159.203.181.13
+0 3 1 5774 1 1757130648
+/cgi-sys/suspendedpage.cgi
+discovery-crawler14.blex.seranking.com
+0 2 0 2484 1 1756716927
+/
+ip103-187-146-33.cloudhost.web.id
+0 6 0 7506 1 1757063777
+-
+43.166.244.66
+0 1 0 795 1 1758374388
+/
+49.7.227.204
+0 1 0 795 1 1758307974
+/
+ec2-44-220-91-60.compute-1.amazonaws.com
+0 2 1 8381 1 1757294615
+/cgi-sys/suspendedpage.cgi
+114.96.103.33
+0 3 1 5798 2 1758040115
+/
+192.36.109.98
+0 1 1 4232 1 1757883271
+/cgi-sys/suspendedpage.cgi
+141.98.11.171
+0 1 0 795 0 0
+-
+ec2-3-91-39-176.compute-1.amazonaws.com
+0 2 1 5003 1 1757367232
+/cgi-sys/suspendedpage.cgi
+ec2-54-172-106-163.compute-1.amazonaws.com
+0 1 1 2474 1 1757029393
+/
+182.44.10.67
+0 1 0 795 1 1758250411
+/
+meaningful.monitoring.internet-measurement.com
+0 2 1 5107 1 1757844118
+/cgi-sys/suspendedpage.cgi
+162.142.125.112
+0 1 0 795 1 1758291823
+/
+ec2-54-172-192-4.compute-1.amazonaws.com
+0 1 0 795 1 1758412002
+/
+118.195.165.218
+0 1 0 795 1 1758517462
+/
+4.217.175.227
+0 300 150 1279200 1 1757169988
+/cgi-sys/suspendedpage.cgi
+110.166.71.39
+0 2 0 1590 2 1758236400
+/
+167.94.138.174
+0 5 2 10985 1 1757352733
+/cgi-sys/suspendedpage.cgi
+192.36.109.91
+0 1 0 771 1 1757883270
+/
+52.178.193.251
+0 234 117 997776 1 1757327734
+/cgi-sys/suspendedpage.cgi
+43.133.69.37
+0 1 0 795 1 1758421609
+/
+ec2-35-87-129-168.us-west-2.compute.amazonaws.com
+0 1 1 2474 1 1756783388
+/
+fwdproxy-rva-018.fbsv.net
+0 1 0 795 0 0
+-
+93.158.91.250
+0 1 1 2474 1 1756855288
+/
+167.94.138.163
+0 4 2 10006 1 1757475066
+/cgi-sys/suspendedpage.cgi
+52.169.148.186
+0 83 0 65985 1 1758536313
+-
+2.58.56.45.powered.by.rdp.sh
+0 2 1 8528 1 1757585588
+/cgi-sys/suspendedpage.cgi
+b05.aitechlocal.com
+0 2 1 4668 1 1757119646
+/cgi-sys/suspendedpage.cgi
+43.157.153.236
+0 3 1 5798 2 1758272739
+/
+185.12.150.17
+0 1 1 4232 1 1757549202
+/cgi-sys/suspendedpage.cgi
+118.195.153.213
+0 3 1 5798 2 1758179512
+/
+generous.monitoring.internet-measurement.com
+0 2 1 5003 1 1757998275
+/
+vps2406078.fastwebserver.de
+0 1 0 795 1 1758298779
+/
+5.202.52.253
+0 5 0 5799 3 1758095386
+/
+57.141.0.20
+0 1 0 795 1 1758256433
+-
+ec2-98-84-54-139.compute-1.amazonaws.com
+0 2 1 8528 1 1757539781
+/cgi-sys/suspendedpage.cgi
+121.229.185.160
+0 1 0 795 1 1758378505
+/
+ec2-44-193-254-10.compute-1.amazonaws.com
+0 1 0 795 1 1758098771
+/
+independent.monitoring.internet-measurement.com
+0 1 0 795 1 1758467662
+/
+93.158.90.71
+0 1 1 4232 1 1757359493
+/cgi-sys/suspendedpage.cgi
+14.215.163.132
+0 3 1 5798 3 1758293512
+/
+ec2-52-203-232-158.compute-1.amazonaws.com
+0 1 0 795 1 1758069854
+/
+scan.cypex.ai
+0 2 1 3269 2 1758119643
+/
+4.217.248.11
+0 166 83 695623 1 1757279944
+/cgi-sys/suspendedpage.cgi
+175.6.217.4
+0 1 0 795 1 1758223137
+/
+43.134.141.244
+0 2 1 5003 2 1757428425
+/
+unn-156-146-35-28.cdn77.com
+0 2 1 5003 1 1757822646
+/cgi-sys/suspendedpage.cgi
+43.153.74.75
+0 1 1 2474 1 1756745869
+/
+43.128.156.124
+0 2 1 5003 2 1757528375
+/
+43.135.133.194
+0 1 1 2474 1 1756722676
+/
+43.143.248.236
+0 1 0 795 1 1758420064
+/
+162.62.213.187
+0 2 1 5003 1 1757637038
+/
+129.28.14.231
+0 1 0 795 1 1758531872
+/
+170.106.73.216
+0 1 0 795 1 1758041579
+/
+185.193.157.211
+0 1 0 795 1 1758160057
+/
+182.42.105.85
+0 1 0 795 1 1758349174
+/
+182.43.70.143
+0 1 0 795 1 1758503688
+/
+crawl-66-249-68-131.googlebot.com
+0 7 3 15735 3 1757904716
+/
+43.130.16.212
+0 1 0 795 1 1758537975
+/
+113.141.91.58
+0 1 0 771 1 1757736967
+/
+170.106.35.187
+0 1 1 2474 1 1756981684
+/
+43.130.57.46
+0 2 1 5003 1 1757144679
+/cgi-sys/suspendedpage.cgi
+43.165.65.180
+0 1 0 795 1 1758447473
+/
+113.219.218.197
+0 1 0 795 1 1758095216
+/
+43.159.144.16
+0 1 1 2474 1 1756808276
+/
+ec2-54-160-238-62.compute-1.amazonaws.com
+0 1 1 2474 1 1756871282
+/
+49.51.72.76
+0 2 1 5003 1 1757572885
+/cgi-sys/suspendedpage.cgi
+43.131.243.61
+0 2 1 5003 1 1757660719
+/cgi-sys/suspendedpage.cgi
+111.172.249.49
+0 1 0 795 1 1758194133
+/
+93.158.90.72
+0 1 0 795 0 0
+-
+101.32.49.171
+0 2 1 5003 1 1757993272
+/cgi-sys/suspendedpage.cgi
+crawl-66-249-66-2.googlebot.com
+0 1 0 795 1 1758286870
+-
+43.159.128.155
+0 2 1 5003 2 1757920892
+/
+49.51.47.100
+0 1 0 795 1 1758086589
+/
+43.156.168.214
+0 1 1 2474 1 1756784000
+/
+vmd150063.contaboserver.net
+0 2 1 5003 1 1757448894
+/cgi-sys/suspendedpage.cgi
+170.106.148.137
+0 1 0 795 1 1758108893
+/
+151.248.1.103
+0 1 0 771 1 1757549201
+/
+93.158.91.247
+0 1 0 1251 0 0
+-
+dacs-compute-01.ewi.utwente.nl
+0 2 0 1590 1 1758182686
+/
+192.36.137.155
+0 1 0 771 1 1757549570
+/
+193.105.234.155
+0 1 0 0 1 1758432936
+/
+43.135.135.57
+0 2 1 5003 2 1757407727
+/
+120.71.59.24
+0 2 1 5003 1 1757874697
+/cgi-sys/suspendedpage.cgi
+118.89.233.234
+0 2 1 5003 2 1757983946
+/
+45.149.173.219
+0 1 0 795 1 1758079154
+/
+43.130.15.147
+0 2 1 5003 1 1757292049
+/cgi-sys/suspendedpage.cgi
+fwdproxy-ldc-009.fbsv.net
+0 1 0 795 0 0
+-
+43.153.62.161
+0 2 1 5003 1 1757820216
+/cgi-sys/suspendedpage.cgi
+52.169.13.133
+0 234 117 980577 1 1757370271
+/cgi-sys/suspendedpage.cgi
+192.36.109.125
+0 1 1 4232 1 1757883270
+/cgi-sys/suspendedpage.cgi
+ec2-13-222-32-196.compute-1.amazonaws.com
+0 6 3 15009 2 1757133978
+/cgi-sys/suspendedpage.cgi
+194.225.50.88
+0 28 15 63051 19 1758525857
+/
+43.130.32.245
+0 2 2 4948 2 1756873340
+/
+146.190.116.37
+0 3 1 5774 1 1757073803
+/cgi-sys/suspendedpage.cgi
+203.33.203.148
+0 1 0 795 1 1758150913
+/
+prod-nyc3-2.qencode-encoder-6b022a66961011f09412d205fe1ce249
+0 2 0 1590 1 1758295484
+/
+13.79.87.25
+0 190 95 810160 1 1757625580
+/cgi-sys/suspendedpage.cgi
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-66-195.googlebot.com
+0 1 0 795 1 1758541990
+-
+124.156.225.181
+0 1 0 795 1 1758514597
+/
+crawl-66-249-66-194.googlebot.com
+0 1 0 795 0 0
+-
+118.195.165.218
+0 1 0 795 1 1758517462
+/
+52.169.148.186
+0 83 0 65985 1 1758536313
+-
+129.28.14.231
+0 1 0 795 1 1758531872
+/
+182.43.70.143
+0 1 0 795 1 1758503688
+/
+43.130.16.212
+0 1 0 795 1 1758537975
+/
+194.225.50.88
+0 1 0 795 1 1758525857
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://duneh.ir
+0 8
+http://mail.duneh.ir/favicon.ico
+0 2
+http://mail.duneh.ir/cgi-sys/suspendedpage.cgi
+0 1
+http://mail.duneh.ir
+0 1
+- (Direct Request)
+0 1770
+http://duneh.ir/ads.txt
+0 1
+http://duneh.ir/cgi-sys/suspendedpage.cgi
+0 1
+www.google.com
+0 1
+http://www.duneh.ir/favicon.ico
+0 1
+http://www.duneh.ir/
+0 1
+http://duneh.ir/robots.txt
+0 2
+http://duneh.ir/
+0 7
+http://www.duneh.ir/cgi-sys/suspendedpage.cgi
+0 1
+http://www.duneh.ir
+0 43
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Agency/93.8.2
+0 2
+Mozilla/5.0 (compatible; BLEXBot/1.0; +https://help.seranking.com/en/blex-crawler)
+0 2
+python-urllib3/2.2.3
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.75.14 (KHTML, like Gecko) Version/7.0.3 Safari/7046A194A
+0 2
+Mozilla/5.0 (compatible; InternetMeasurement/1.0; +https://internet-measurement.com/)
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 2
+OI-Crawler/Nutch (https://openintel.nl/webcrawl/)
+0 2
+Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 SonyEricssonP100/01; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KH
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1.2 Mobile/15E14
+0 2
+Mozilla/5.0 (compatible; WP-Checker/1.0; +https://example.com)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 28
+Mozilla/5.0 (compatible; CensysInspect/1.1; +https://about.censys.io/)
+0 21
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.5) Gecko/20091102 Firefox/3.5.5 (.NET CLR 3.5.30729)
+0 2
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Ed
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+0 4
+Mozilla/4.0 (compatible; MSIE 4.01; Windows CE; PPC; MDA Pro/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1)
+0 1
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.19
+0 6
+Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.3
+0 2
+Mozilla/5.0 (Linux; Android 10; moto e(7) plus) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/15E14
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:139.0) Gecko/20100101 Firefox/139.0
+0 5
+checkpack/0.1.6
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7339.127 Mobile
+0 15
+Offline Explorer/2.5
+0 1
+Mozilla/5.0 (compatible; IbouBot/1.0; +bot@ibou.io; +https://ibou.io/iboubot.html)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.154 Mobile
+0 4
+Mozilla/5.0 zgrab/0.x
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Appleb
+0 2
+Mozilla/5.0 (Windows NT 10.0; rv:142.0) Gecko/20100101 Firefox/142.0
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 159
+Mozilla/5.0 (Linux; Android 10; M2007J20CI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 11; HD1913) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4853.129 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_2)
+0 1
+Mozilla/5.0 (Linux; Android 11; Mi A3 Build/RKQ1.200903.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/10
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+0 1
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; spider-
+0 1
+Mozilla/5.0 (Linux; Android 9; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.81 Mobile Safari/537.36
+0 28
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 6
+Mozilla/5.0 (compatible; ips-agent)
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36 Edg/91.0.
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+0 8
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 1
+Mozilla/5.0 (Android 14; Mobile; rv:123.0) Gecko/123.0 Firefox/123
+0 4
+meta-externalagent/1.1 (+https://developers.facebook.com/docs/sharing/webmasters/crawler)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+0 2
+W3C_Validator/1.654
+0 1
+Mozilla/5.0 (compatible; ORT/v1.0.0; visit ORTc.me )
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
